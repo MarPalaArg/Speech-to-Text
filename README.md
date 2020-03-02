@@ -25,7 +25,7 @@ several engines and APIs, online and offline.
 3. Run the .py, the script will return your speech as a string variable. 
 
 # Conclusion: 
-Good to record interviews that later will be analyzed for analytics purposes.
+Good for recording interviews that later will be analyzed with Text Analytics tools.
 
 
 
